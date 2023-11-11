@@ -1,6 +1,6 @@
 {
     "name": "typescript-boilerplate-node",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "boilerplate for basic typescript project",
     "main": "index.ts",
     "type": "module",
