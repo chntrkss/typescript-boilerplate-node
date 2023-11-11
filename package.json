@@ -1,0 +1,22 @@
+{
+    "name": "typescript-boilerplate-node",
+    "version": "1.0.1",
+    "description": "boilerplate for basic typescript project",
+    "main": "index.ts",
+    "type": "module",
+    "scripts": {
+        "watch:typescript": "tsc --watch",
+        "start:node": "node --watch dist/index.js"
+    },
+    "keywords": [
+        "typescript",
+        "boilerplate",
+        "node"
+    ],
+    "author": "chntrkss",
+    "license": "ISC",
+    "devDependencies": {
+        "ts-node": "^10.9.1",
+        "typescript": "^5.2.2"
+    }
+}
